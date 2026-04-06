@@ -15,5 +15,5 @@ Dart <br>
 
 Material Design <br>
 📂 Project Structure <br>
-lib/
+lib/ <br>
  └── main.dart   # Main application code
